@@ -1,5 +1,7 @@
 # Megaventory-Task
 
+# Demo
+You can test the application via this link https://ahmediblao1.github.io/Megaventory-Task/.
 
 This repository is a task solution for Megaventory front-end internship  
 
