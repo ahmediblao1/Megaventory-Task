@@ -20,9 +20,7 @@ To accomplish the task I used HTML, CSS and JavaScript The front-end functionali
 
 The main JavaScript code parses the JSON data dynamically creates the HTML elements and handles the click event to display the order details in a popup window.
 
-## Relation to My CV Project
 
-This project demonstrates my skills in front-end web development particularly in working with JSON data and manipulating the DOM and handling user interactions It showcases my ability to create dynamic and interactive user interfaces using JavaScript.
 
 
 
